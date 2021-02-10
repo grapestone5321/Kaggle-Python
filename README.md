@@ -140,3 +140,160 @@ http://home.ustc.edu.cn/~huang83/ds/Data%20Structures%20and%20Algorithms%20Using
        A.7.3 Main Routine . . . . . . . . . . . . . . . . . . . . . . . . . . 483
 
 -------
+
+
+# Python Tutorials for Beginners
+https://www.guru99.com/python-tutorials.html
+
+## What is Python?
+Python is an object-oriented programming language created by Guido Rossum in 1989. 
+
+It is ideally designed for rapid prototyping of complex applications. 
+
+It has interfaces to many OS system calls and libraries and is extensible to C or C++. 
+
+Many large companies use the Python programming language include NASA, Google, YouTube, BitTorrent, etc.
+
+Python programming is widely used in Artificial Intelligence, Natural Language Generation, Neural Networks and other advanced fields of Computer Science. 
+
+Python had deep focus on code readability & this class will teach you python from basics.
+
+
+### Learn Python Programming Basics
+
+       Tutorial	How to Install Python on Windows with Pycharm IDE
+       Tutorial	Hello World: Creat your First Python Program
+       Tutorial	How to Print in Python with Examples
+       Tutorial	Python Variables: Declare, Concatenate, Global & Local
+      
+      
+### Python Data Structure
+
+      Tutorial	Python TUPLE - Pack, Unpack, Compare, Slicing, Delete, Key
+      Tutorial	Python Dictionary(Dict): Update, Cmp, Len, Sort, Copy, Items, str Example
+      Tutorial	Python Dictionary Append: How to Add Key/Value Pair
+      Tutorial	Python Operators: Arithmetic, Logical, Comparison, Assignment, Bitwise & Precedence
+      Tutorial	Python Arrays: Create, Append, Pop, Reverse Examples
+
+### Python Conditional Loops
+
+      Tutorial	Python IF, ELSE, ELIF, Nested IF & Switch Case Statement
+      Tutorial	Python For & While Loops: Enumerate, Break, Continue Statement
+      Tutorial	Python break, continue, pass statements with Examples
+      Tutorial	Python OOPs: Class, Object, Inheritance and Constructor with Example
+
+### Python Strings
+
+      Tutorial	Python Strings: Replace, Join, Split, Reverse, Uppercase & Lowercase
+      Tutorial	Python String strip() with EXAMPLE
+      Tutorial	Python String count() with EXAMPLES
+      Tutorial	Python String format() with EXAMPLES
+      Tutorial	Python string length | len() method Example
+      Tutorial	Python String find() Method with Examples
+
+### Python Functions
+
+      Tutorial	Python Main Function with Examples: Understand __main__
+      Tutorial	Python Functions Examples: Call, Indentation, Arguments & Return Values
+      Tutorial	Python Lambda Functions with EXAMPLES
+      Tutorial	Python abs() Function: Absolute Value Examples
+      Tutorial	Python round() function with EXAMPLES
+      Tutorial	Python range() Function: Float, List, For loop Examples
+      Tutorial	Python map() function with EXAMPLES
+      Tutorial	Python Timeit() with Examples
+      Tutorial	Yield in Python Tutorial: Generator & Yield vs Return Example
+      Tutorial	Python Queue: FIFO, LIFO Example
+      Tutorial	Python Counter in Collections with Example
+      Tutorial	Enumerate() in Python with EXAMPLES
+      Tutorial	Python time sleep(): Examples to add DELAY to your code
+      Tutorial	type() and isinstance() in Python with Examples
+      Tutorial	Python Print WITHOUT Newline (Examples)
+
+### Python File Handling
+
+      Tutorial	Python File Handling: Create, Open, Append, Read, Write
+      Tutorial	Python Check If File or Directory Exists
+      Tutorial	Python COPY File using shutil.copy(), shutil.copystat()
+      Tutorial	Python Rename File and Directory using os.rename()
+      Tutorial	Python ZIP file with Example
+      Tutorial	Python Exception Handling: Try, Catch, Finally
+      Tutorial	Python readline() Method with Examples
+
+### Python Data Science
+
+      Tutorial	Python SciPy Tutorial: Learn with Example
+      Tutorial	Reading and Writing CSV Files in Python using CSV Module & Pandas
+      Tutorial	Python JSON: Encode(dump), Decode(load) json Data & File (Example)
+      Tutorial	Python with MySQL: Connect, Create Database, Table, Insert [Examples]
+      Tutorial	PyUnit Tutorial: Python Unit Testing Framework (with Example)
+      Tutorial	Facebook Login using Python: FB Login Example
+      Tutorial	Python Matrix: Transpose, Multiplication, NumPy Arrays Examples      
+      
+      
+### Differences: Python vs Other Technologies
+
+      Tutorial	Python Vs PHP: What's the Difference?
+      Tutorial	Python vs Go: What's the Difference?
+      Tutorial	Python vs JavaScript: What's the Difference?
+      Tutorial	Python vs Ruby: What's the Difference?
+      Tutorial	Python 2 vs Python 3: Key Differences
+      Tutorial	Python vs C++: What's the Difference?
+      Tutorial	Flask vs Django: Must Know Differences
+      Tutorial	Python vs JAVA vs PHP vs PERL vs Ruby vs JavaScript vs C++ vs TCL
+
+### Python List
+
+      Tutorial	Python List: Comprehension, Apend, Sort, Length, Reverse EXAMPLES
+      Tutorial	Find AVERAGE of a List in Python with Example
+      Tutorial	Python List count() with EXAMPLES
+      Tutorial	Python remove Duplicates from a List
+      Tutorial	Remove element from a Python LIST [clear, pop, remove, del]
+      Tutorial	Python List index() with Example
+
+### Must Know Stuff!
+
+      Tutorial	Python Regex Tutorial: re.match(),re.search(), re.findall(), re.split()
+      Tutorial	Python DateTime, TimeDelta, Strftime(Format) with Examples
+      Tutorial	Python CALENDAR Tutorial with Example
+      Tutorial	PyTest Tutorial: What is, Install, Fixture, Assertions
+      Tutorial	Django Tutorials for Beginners
+      Tutorial	Python Internet Access using Urllib.Request and urlopen()
+      Tutorial	Python XML Parser Tutorial: Read xml file example(Minidom, ElementTree)
+      Tutorial	PyQt Tutorial: Python GUI Designer
+      Tutorial	Multithreading in Python with Global Interpreter Lock (GIL) Example
+      Tutorial	Import module in Python with Examples
+
+### Python Tools
+
+      Tutorial	16 Best Web Scraping Tools for Data Extraction
+      Tutorial	BEST Python IDEs
+      Tutorial	BEST Python Certification Exam
+      Tutorial	11 Best Python Programming Books for Beginner
+
+### Check	Python Tutorial for Beginners PDF
+
+      Tutorial	20 Best Online Python Courses
+      Tutorial	Top 40 Python Interview Questions & Answers
+
+### Python Programming Characteristics
+ 
+      It provides rich data types and easier to read syntax than any other programming languages
+      It is a platform independent scripted language with full access to operating system API's
+      Compared to other programming languages, it allows more run-time flexibility
+      It includes the basic text manipulation facilities of Perl and Awk
+      A module in Python may have one or more classes and free functions
+      Libraries in Pythons are cross-platform compatible with Linux, Macintosh, and Windows
+      For building large applications, Python can be compiled to byte-code
+      Python supports functional and structured programming as well as OOP
+      It supports interactive mode that allows interacting Testing and debugging of snippets of code
+      In Python, since there is no compilation step, editing, debugging and testing is fast.
+      Python is commonly used by programmers to:
+
+### Program video games
+
+Build Artificial Intelligence algorithms
+      Program various scientific programs such as statistical models
+      In these Python tutorials, we will cover Python 2 and Python 3 Examples.
+
+
+-------
