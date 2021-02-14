@@ -393,4 +393,36 @@ http://home.ustc.edu.cn/~huang83/ds/Data%20Structures%20and%20Algorithms%20Using
 
 -------
 
+# Python Object-Oriented Tutorial
+https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc
+
+In this Python Object-Oriented Tutorial, we will begin our series by learning how to create and use classes within Python. 
+
+Classes allow us to logically group our data and functions in a way that is easy to reuse and also easy to build upon if need be. 
+
+Let's get started.
+
+### Python OOP 1
+- Classes and Instances - https://youtu.be/ZDa-Z5JzLYM​
+
+### Python OOP 2
+- Class Variables - https://youtu.be/BJ-VvGyQxho​
+
+### Python OOP 3
+- Classmethods and Staticmethods - https://youtu.be/rq8cL2XMM5M​
+
+### Python OOP 4
+- Inheritance - https://youtu.be/RSl87lqOXDE​
+
+### Python OOP 5 
+- Special (Magic/Dunder) Methods - https://youtu.be/3ohzBxoFHAY​
+
+### Python OOP 6 
+- Property Decorators - https://youtu.be/jCzT9XFZ5bw​
+
+### The code from this video can be found at:
+https://github.com/CoreyMSchafer/code...​
+
+
+-------
 
