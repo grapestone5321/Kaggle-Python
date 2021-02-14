@@ -421,7 +421,7 @@ Let's get started.
 - Property Decorators - https://youtu.be/jCzT9XFZ5bw​
 
 ### The code from this video can be found at:
-https://github.com/CoreyMSchafer/code...​
+https://github.com/CoreyMSchafer/code_snippets/tree/master/Object-Oriented
 
 
 -------
