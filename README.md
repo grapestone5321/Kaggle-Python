@@ -297,3 +297,100 @@ Build Artificial Intelligence algorithms
 
 
 -------
+
+# 9. Classes
+https://docs.python.org/3/tutorial/classes.html
+
+## Table of Contents
+## 9. Classes
+### 9.1. A Word About Names and Objects
+### 9.2. Python Scopes and Namespaces
+
+      9.2.1. Scopes and Namespaces Example
+
+### 9.3. A First Look at Classes
+
+      9.3.1. Class Definition Syntax
+      9.3.2. Class Objects
+      9.3.3. Instance Objects
+      9.3.4. Method Objects
+      9.3.5. Class and Instance Variables
+
+### 9.4. Random Remarks
+### 9.5. Inheritance
+
+      9.5.1. Multiple Inheritance
+
+### 9.6. Private Variables
+### 9.7. Odds and Ends
+### 9.8. Iterators
+### 9.9. Generators
+### 9.10. Generator Expressions
+
+------
+
+# Data Structures and Algorithms Using Python
+http://home.ustc.edu.cn/~huang83/ds/Data%20Structures%20and%20Algorithms%20Using%20Python.pdf
+
+### Rance D. Necaise:
+
+### Appendix A: Python Review 453
+
+      A.1 The Python Interpreter . . . . . . . . . . . . . . . . . . . . . . . . . 453
+      A.2 The Basics of Python . . . . . . . . . . . . . . . . . . . . . . . . . 454
+      A.2.1 Primitive Types . . . . . . . . . . . . . . . . . . . . . . . . . 455
+      A.2.2 Statements . . . . . . . . . . . . . . . . . . . . . . . . . . . 456
+      A.2.3 Variables . . . . . . . . . . . . . . . . . . . . . . . . . . . . 457
+      A.2.4 Arithmetic Operators . . . . . . . . . . . . . . . . . . . . . . 458
+      A.2.5 Logical Expressions . . . . . . . . . . . . . . . . . . . . . . 459
+      A.2.6 Using Functions and Methods . . . . . . . . . . . . . . . . 461
+      A.2.7 Standard Library . . . . . . . . . . . . . . . . . . . . . . . . 462
+      A.3 User Interaction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 463
+      A.3.1 Standard Input . . . . . . . . . . . . . . . . . . . . . . . . . 463
+      A.3.2 Standard Output . . . . . . . . . . . . . . . . . . . . . . . . 464
+      A.4 Control Structures . . . . . . . . . . . . . . . . . . . . . . . . . . . 467
+      A.4.1 Selection Constructs . . . . . . . . . . . . . . . . . . . . . . 467
+      A.4.2 Repetition Constructs . . . . . . . . . . . . . . . . . . . . . 469
+      A.5 Collections . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 472
+      A.5.1 Strings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 472
+      A.5.2 Lists . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 473
+      A.5.3 Tuples . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 475
+      A.5.4 Dictionaries . . . . . . . . . . . . . . . . . . . . . . . . . . . 475
+      A.6 Text Files . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 477
+      A.6.1 File Access . . . . . . . . . . . . . . . . . . . . . . . . . . . 477
+      A.6.2 Writing to Files . . . . . . . . . . . . . . . . . . . . . . . . . 478
+      A.6.3 Reading from Files . . . . . . . . . . . . . . . . . . . . . . . 479
+      A.7 User-Defined Functions . . . . . . . . . . . . . . . . . . . . . . . . 480
+      A.7.1 The Function Definition . . . . . . . . . . . . . . . . . . . . 480
+      A.7.2 Variable Scope . . . . . . . . . . . . . . . . . . . . . . . . . 483
+      A.7.3 Main Routine . . . . . . . . . . . . . . . . . . . . . . . . . . 483
+      
+### Appendix B: User-Defined Modules 485
+
+      B.1 Structured Programs . . . . . . . . . . . . . . . . . . . . . . . . . . 485
+      B.2 Namespaces . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 486
+      
+### Appendix C: Exceptions 489
+
+      C.1 Catching Exceptions . . . . . . . . . . . . . . . . . . . . . . . . . . 489
+      C.2 Raising Exceptions . . . . . . . . . . . . . . . . . . . . . . . . . . . 490
+      C.3 Standard Exceptions . . . . . . . . . . . . . . . . . . . . . . . . . . 491
+      C.4 Assertions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 491
+      
+### Appendix D: Classes 493
+
+      D.1 The Class Definition . . . . . . . . . . . . . . . . . . . . . . . . . . 493
+      D.1.1 Constructors . . . . . . . . . . . . . . . . . . . . . . . . . . 494
+      D.1.2 Operations . . . . . . . . . . . . . . . . . . . . . . . . . . . 495
+      D.1.3 Using Modules . . . . . . . . . . . . . . . . . . . . . . . . . 497
+      D.1.4 Hiding Attributes . . . . . . . . . . . . . . . . . . . . . . . . 498
+      D.2 Overloading Operators . . . . . . . . . . . . . . . . . . . . . . . . . 500
+      D.3 Inheritance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 502
+      D.3.1 Deriving Child Classes . . . . . . . . . . . . . . . . . . . . . 503
+      D.3.2 Creating Class Instances . . . . . . . . . . . . . . . . . . . 504
+      D.3.3 Invoking Methods . . . . . . . . . . . . . . . . . . . . . . . 505
+      D.4 Polymorphism . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 507
+
+-------
+
+
