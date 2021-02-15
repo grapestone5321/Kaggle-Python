@@ -430,6 +430,44 @@ https://github.com/CoreyMSchafer/code_snippets/tree/master/Object-Oriented
 
 https://realpython.com/python3-object-oriented-programming/
 
+
+      Object-oriented programming is a programming paradigm that provides a means of structuring programs so that properties and behaviors are bundled into individual objects.
+
+      For instance, an object could represent a person with properties like a name, age, and address and behaviors such as walking, talking, breathing, and running. 
+
+      Or it could represent an email with properties like a recipient list, subject, and body and behaviors like adding attachments and sending.
+
+      Put another way, object-oriented programming is an approach for modeling concrete, real-world things, like cars, 
+      as well as relations between things, like companies and employees, students and teachers, and so on. 
+
+      OOP models real-world entities as software objects that have some data associated with them and can perform certain functions.
+
+      Another common programming paradigm is procedural programming, which structures a program like a recipe in that it provides a set of steps, 
+      in the form of functions and code blocks, that flow sequentially in order to complete a task.
+
+      The key takeaway is that objects are at the center of object-oriented programming in Python, 
+      not only representing the data, as in procedural programming, but in the overall structure of the program as well.
+
+## Classes vs Instances:
+
+      Classes are used to create user-defined data structures. 
+      Classes define functions called methods, which identify the behaviors and actions that an object created from the class can perform with its data.
+
+      A class is a blueprint for how something should be defined. 
+      It doesn’t actually contain any data. 
+      The Dog class specifies that a name and an age are necessary for defining a dog, but it doesn’t contain the name or age of any specific dog.
+
+      While the class is the blueprint, an instance is an object that is built from a class and contains real data. 
+
+      An instance of the Dog class is not a blueprint anymore. It’s an actual dog with a name, like Miles, who’s four years old.
+      Put another way, a class is like a form or questionnaire. 
+
+An instance is like a form that has been filled out with information. 
+
+Just like many people can fill out the same form with their own unique information, many instances can be created from a single class.
+
+
+
 -------
 
 
