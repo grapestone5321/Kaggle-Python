@@ -75,6 +75,8 @@ Instead, it introduces many of Python’s most noteworthy features, and will giv
 
 ### 4. More Control Flow Tools
 
+### 4.6. Defining Functions
+
 ### 5. Data Structures
 
 ### 6. Modules
