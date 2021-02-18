@@ -40,6 +40,9 @@ Imports, operator overloading, and survival tips for venturing into the world of
 ## python.org
 https://www.python.org/
 
+## The Python Tutorial: 3.9
+https://docs.python.org/3.9/tutorial/
+
 ## The Python Tutorial: 3.8.7
 https://docs.python.org/3.8/tutorial/index.html
 
