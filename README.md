@@ -431,6 +431,57 @@ https://github.com/CoreyMSchafer/code_snippets/tree/master/Object-Oriented
 
 -------
 
+# Python Classes & Objects Tutorial
+https://www.youtube.com/playlist?list=PLzMcBGfZo4-l1MqB1zoYfqzlj_HH-ZzXt
+
+### Tech With Tim
+
+This is a great series to learn about object orientated programming with python. 
+
+I will be starting very basic and moving into move advanced topics like method overloading, static and class methods, public vs private classes and more!
+
+### 1
+
+9:55
+
+Python OOP Tutorial (Object Orientated Programming ) - Intro
+
+### 2
+
+11:44
+
+Python OOP Tutorial (Object Orientated Programming ) #2 - Creating Classes
+
+
+### 3
+
+12:46
+
+Python OOP Tutorial (Object Orientated Programming ) - Inheritance
+
+### 4
+
+12:55
+
+Python OOP Tutorial (Object Orientated Programming ) - Overriding Methods
+
+### 5
+
+9:52
+
+Python OOP Tutorial (Object Orientated Programming ) - Static Methods and Class Methods
+
+### 6
+
+5:56
+
+Classes & Objects Python Tutorial #6 - Private and Public Classes
+
+
+
+
+-------
+
 # Object-Oriented Programming (OOP) in Python 3
 
 https://realpython.com/python3-object-oriented-programming/
