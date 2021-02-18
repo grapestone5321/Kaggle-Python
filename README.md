@@ -434,11 +434,22 @@ https://github.com/CoreyMSchafer/code_snippets/tree/master/Object-Oriented
 # Python Classes & Objects Tutorial
 https://www.youtube.com/playlist?list=PLzMcBGfZo4-l1MqB1zoYfqzlj_HH-ZzXt
 
-### Tech With Tim
-
 This is a great series to learn about object orientated programming with python. 
 
 I will be starting very basic and moving into move advanced topics like method overloading, static and class methods, public vs private classes and more!
+
+### Tech With Tim
+
+
+Welcome to my python oop tutorials! 
+
+Learn Intermediate/Advanced object orientated programming in python.
+
+Everything in python is an object , strs, int, floats... You name it, it's probably and object. 
+
+When you create variables of certain types you are essential creating an object of that class. 
+
+This is what allows you to use methods like .lower(), .split(), .append(), etc.
 
 ### 1
 
