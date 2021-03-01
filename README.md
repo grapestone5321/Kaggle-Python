@@ -347,6 +347,20 @@ For C or C++ programmers, two additional manuals exist: Extending and Embedding 
 
 -------
 
+# Python Developer’s Guide
+https://devguide.python.org/
+
+## Code of Conduct
+
+Please note that all interactions on Python Software Foundation-supported infrastructure is covered by the PSF Code of Conduct, which includes all infrastructure used in the development of Python itself (e.g. mailing lists, issue trackers, GitHub, etc.). 
+
+In general this means everyone is expected to be open, considerate, and respectful of others no matter what their position is within the project.
+
+## Full Table of Contents
+
+
+
+-------
 
 ## Data Structures and Algorithms Using Python
 ### Appendix A: Python Review: page 453
