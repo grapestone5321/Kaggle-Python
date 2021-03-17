@@ -1,6 +1,36 @@
 # Kaggle-Python
 
 
+## Kaggle
+
+### 1. Python
+https://www.kaggle.com/learn/python
+
+
+## Website
+
+### python.org
+https://www.python.org/
+
+### The Python Tutorial: 3.9
+https://docs.python.org/3.9/tutorial/
+
+
+### The Python Standard Library
+https://docs.python.org/3.9/library/index.html
+
+### The Python Language Reference
+https://docs.python.org/3.9/reference/index.html
+
+
+
+
+
+
+
+
+
+
 ------
 
 ## Python
@@ -229,6 +259,111 @@ Instead, it introduces many of Python’s most noteworthy features, and will giv
       16.1.2. Executable Python Scripts
       16.1.3. The Interactive Startup File
       16.1.4. The Customization Modules
+
+-------
+
+
+### The Python Standard Library
+https://docs.python.org/3.9/library/index.html
+
+
+
+
+
+While The Python Language Reference describes the exact syntax and semantics of the Python language, this library reference manual describes the standard library that is distributed with Python. 
+
+It also describes some of the optional components that are commonly included in Python distributions.
+
+Python’s standard library is very extensive, offering a wide range of facilities as indicated by the long table of contents listed below. 
+
+The library contains built-in modules (written in C) that provide access to system functionality such as file I/O that would otherwise be inaccessible to Python programmers, as well as modules written in Python that provide standardized solutions for many problems that occur in everyday programming. 
+
+Some of these modules are explicitly designed to encourage and enhance the portability of Python programs by abstracting away platform-specifics into platform-neutral APIs.
+
+The Python installers for the Windows platform usually include the entire standard library and often also include many additional components. 
+
+For Unix-like operating systems Python is normally provided as a collection of packages, so it may be necessary to use the packaging tools provided with the operating system to obtain some or all of the optional components.
+
+In addition to the standard library, there is a growing collection of several thousand components (from individual programs and modules to packages and entire application development frameworks), available from the Python Package Index.
+
+Introduction
+
+Built-in Functions
+
+Built-in Constants
+
+Built-in Types
+
+Built-in Exceptions
+
+Text Processing Services
+
+Binary Data Services
+
+Data Types
+
+Numeric and Mathematical Modules
+
+Functional Programming Modules
+
+File and Directory Access
+
+Data Persistence
+
+Data Compression and Archiving
+
+File Formats
+
+Cryptographic Services
+
+Generic Operating System Services
+
+Concurrent Execution
+
+Networking and Interprocess Communication
+
+Internet Data Handling
+
+Structured Markup Processing Tools
+
+Internet Protocols and Support
+
+Multimedia Services
+
+Internationalization
+
+Program Frameworks
+
+Graphical User Interfaces with Tk
+
+Development Tools
+
+Debugging and Profiling
+
+Software Packaging and Distribution
+
+Python Runtime Services
+
+Custom Python Interpreters
+
+Importing Modules
+
+Python Language Services
+
+Miscellaneous Services
+
+MS Windows Specific Services
+
+Unix Specific Services
+
+Superseded Modules
+
+Undocumented Modules
+
+
+
+
+
 
 -------
 
