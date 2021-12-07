@@ -838,42 +838,18 @@ When you create variables of certain types you are essential creating an object 
 
 This is what allows you to use methods like .lower(), .split(), .append(), etc.
 
-### 1
+### 1 9:55 Python OOP Tutorial (Object Orientated Programming ) - Intro
 
-9:55
-
-Python OOP Tutorial (Object Orientated Programming ) - Intro
-
-### 2
-
-11:44
-
-Python OOP Tutorial (Object Orientated Programming ) #2 - Creating Classes
+### 2 11:44 Python OOP Tutorial (Object Orientated Programming ) #2 - Creating Classes
 
 
-### 3
+### 3 12:46 Python OOP Tutorial (Object Orientated Programming ) - Inheritance
 
-12:46
+### 4 12:55 Python OOP Tutorial (Object Orientated Programming ) - Overriding Methods
 
-Python OOP Tutorial (Object Orientated Programming ) - Inheritance
+### 5 9:52 Python OOP Tutorial (Object Orientated Programming ) - Static Methods and Class Methods
 
-### 4
-
-12:55
-
-Python OOP Tutorial (Object Orientated Programming ) - Overriding Methods
-
-### 5
-
-9:52
-
-Python OOP Tutorial (Object Orientated Programming ) - Static Methods and Class Methods
-
-### 6
-
-5:56
-
-Classes & Objects Python Tutorial #6 - Private and Public Classes
+### 6 5:56 Classes & Objects Python Tutorial #6 - Private and Public Classes
 
 
 
