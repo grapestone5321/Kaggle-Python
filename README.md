@@ -33,7 +33,7 @@ https://docs.python.org/3.9/reference/index.html
 
 ------
 
-## Python
+# Python: Kaggle
 https://www.kaggle.com/learn/python
 
 ### Learn the most important language for data science.
@@ -67,7 +67,7 @@ Imports, operator overloading, and survival tips for venturing into the world of
 -------
 
 
-## python.org
+# python.org
 https://www.python.org/
 
 ## The Python Tutorial: 3.9
