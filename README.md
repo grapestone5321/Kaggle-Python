@@ -1,13 +1,16 @@
 # Kaggle-Python
 
+-------
 
-## Kaggle
+# Kaggle Courses
 
-### 1. Python
+### Python
 https://www.kaggle.com/learn/python
 
 
-## Website
+-------
+
+# Website
 
 ### python.org
 https://www.python.org/
@@ -23,17 +26,42 @@ https://docs.python.org/3.9/library/index.html
 https://docs.python.org/3.9/reference/index.html
 
 
+-------
+
+# Papers
+
+# Data Structures and Algorithms Using Python
+http://home.ustc.edu.cn/~huang83/ds/Data%20Structures%20and%20Algorithms%20Using%20Python.pdf
+
+
+## Data Structures and Algorithms Using Python
+### Appendix A: Python Review: page 453
+
+http://home.ustc.edu.cn/~huang83/ds/Data%20Structures%20and%20Algorithms%20Using%20Python.pdf
+
+
+## 9. Classes
+https://docs.python.org/3/tutorial/classes.html
 
 
 
 
+## Python Classes & Objects Tutorial
+https://www.youtube.com/playlist?list=PLzMcBGfZo4-l1MqB1zoYfqzlj_HH-ZzXt
+
+
+## Data Structures and Algorithms Using Python
+http://home.ustc.edu.cn/~huang83/ds/Data%20Structures%20and%20Algorithms%20Using%20Python.pdf
 
 
 
+## Object-Oriented Programming (OOP) in Python 3
+https://realpython.com/python3-object-oriented-programming/
 
-------
+-------
+-------
 
-# Python: Kaggle
+# Python: Kaggle Courses
 https://www.kaggle.com/learn/python
 
 ### Learn the most important language for data science.
@@ -494,8 +522,10 @@ In general this means everyone is expected to be open, considerate, and respectf
 ## Full Table of Contents
 
 
-
 -------
+-------
+
+# Papers
 
 ## Data Structures and Algorithms Using Python
 ### Appendix A: Python Review: page 453
@@ -912,6 +942,6 @@ https://realpython.com/python3-object-oriented-programming/
       many instances can be created from a single class.
 
 
-
+-------
 -------
 
