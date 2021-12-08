@@ -25,6 +25,8 @@ https://docs.python.org/3.9/library/index.html
 ### The Python Language Reference
 https://docs.python.org/3.9/reference/index.html
 
+## 9. Classes
+https://docs.python.org/3/tutorial/classes.html
 
 -------
 
@@ -40,8 +42,6 @@ http://home.ustc.edu.cn/~huang83/ds/Data%20Structures%20and%20Algorithms%20Using
 http://home.ustc.edu.cn/~huang83/ds/Data%20Structures%20and%20Algorithms%20Using%20Python.pdf
 
 
-## 9. Classes
-https://docs.python.org/3/tutorial/classes.html
 
 
 
@@ -124,7 +124,8 @@ There are also several books covering Python in depth.
 This tutorial does not attempt to be comprehensive and cover every single feature, or even every commonly used feature. 
 Instead, it introduces many of Python’s most noteworthy features, and will give you a good idea of the language’s flavor and style. After reading it, you will be able to read and write Python modules and programs, and you will be ready to learn more about the various Python library modules described in The Python Standard Library.
 
-## The Glossary is also worth going through.
+## The Python Tutorial
+https://docs.python.org/3.9/tutorial/index.html
 
 ### 1. Whetting Your Appetite
 
