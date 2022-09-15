@@ -754,6 +754,9 @@ https://docs.python.org/3/tutorial/classes.html
 ------
 
 # Data Structures and Algorithms Using Python
+
+http://xpzhang.me/teach/DS19_Fall/book.pdf
+
 http://home.ustc.edu.cn/~huang83/ds/Data%20Structures%20and%20Algorithms%20Using%20Python.pdf
 
 ### Rance D. Necaise:
