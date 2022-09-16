@@ -11,7 +11,7 @@ https://www.kaggle.com/learn/python
 
 -------
 
-# Website
+# python.org
 
 ### python.org
 https://www.python.org/
