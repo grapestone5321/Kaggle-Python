@@ -36,24 +36,15 @@ https://docs.python.org/3/tutorial/classes.html
 # Data Structures and Algorithms Using Python
 http://home.ustc.edu.cn/~huang83/ds/Data%20Structures%20and%20Algorithms%20Using%20Python.pdf
 
-
-## Data Structures and Algorithms Using Python
 ### Appendix A: Python Review: page 453
 
-http://home.ustc.edu.cn/~huang83/ds/Data%20Structures%20and%20Algorithms%20Using%20Python.pdf
 
 
-
-
+-----
 
 
 ## Python Classes & Objects Tutorial
 https://www.youtube.com/playlist?list=PLzMcBGfZo4-l1MqB1zoYfqzlj_HH-ZzXt
-
-
-## Data Structures and Algorithms Using Python
-http://home.ustc.edu.cn/~huang83/ds/Data%20Structures%20and%20Algorithms%20Using%20Python.pdf
-
 
 
 ## Object-Oriented Programming (OOP) in Python 3
