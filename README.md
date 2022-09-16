@@ -941,3 +941,10 @@ https://realpython.com/python3-object-oriented-programming/
 -------
 -------
 
+# Python Crash Course
+
+https://www.youtube.com/playlist?list=PLiEts138s9P1A6rXyg4KZQiNBB_qTkq9V
+
+Last updated on Apr 10, 2022
+
+Learning Python
